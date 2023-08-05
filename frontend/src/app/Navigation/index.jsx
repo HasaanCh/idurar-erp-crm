@@ -80,7 +80,7 @@ export default function Navigation() {
           </Menu.Item>
           <Menu.Item key={'Employee'} icon={<UserOutlined />}>
             <Link to={'/employee'} />
-            Employee
+            Salesman
           </Menu.Item>
           <Menu.Item key={'Admin'} icon={<TeamOutlined />}>
             <Link to={'/admin'} />
